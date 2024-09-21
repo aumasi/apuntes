@@ -7,23 +7,23 @@ Por ejemplo: animales, personas, cosas reales o imaginarias, materias, etc.
 
 *Los sustantivos se clasifican en*:
 
-*Comunes*: nombran cosas, animales, etc.
+- *Comunes*: nombran cosas, animales, etc.
 
-*Propios*: son aquellos que identifican a seres y lugares únicos.
-Por ejemplo: Buenos Aires, 
+- *Propios*: son aquellos que identifican a seres y lugares únicos.
+   - Por ejemplo: Buenos Aires, 
 
 Los sustantivos comunes se dividen en:
 
-• *Concretos*: nombran seres que poseen existencia por sí mismoss.
-Por ejemplo: cielo, zapato, gato.
+- *Concretos*: nombran seres que poseen existencia por sí mismoss.
+  - Por ejemplo: cielo, zapato, gato.
 
- • *Abstractos*: nombran acciones, cualidades y procesos que no son materiales.
+- *Abstractos*: nombran acciones, cualidades y procesos que no son materiales.
 
- •  *Individuales*: nombran un solo ser o entidad:
- Por ejemplo: pez, estrella, rosa.
+- *Individuales*: nombran un solo ser o entidad: •
+   - Por ejemplo: pez, estrella, rosa.
 
- • *Colectivos*: nombran un conjunto de personas, animales o cosas y se encuentran en singular. 
- Por ejemplo: cardumen, constelación, rosedal.
+ - *Colectivos*: nombran un conjunto de personas, animales o cosas y se encuentran en singular. 
+   - Por ejemplo: cardumen, constelación, rosedal.
 
 *Género*: Los sustantivos pueden tener género masculino o femenino. Muchos
 de ellos, por medio de su terminación, cambian de género. 
@@ -60,3 +60,25 @@ Los *determinantes* son un grupo de palabras que delimitan al sustantivo
 
 Son determinantes: los artículos definidos e indefinidos, los posesivos, demostrativos y
 cuantificadores.
+
+
+#### Determinante artículo definido
+
+- Masculino
+  - singular:
+    - Ej.El borrado
+  - plural:
+    - los borradores
+
+- Femenino
+  - singular:
+    - Ej. la cartuchera
+  - plural:
+     - Ej. las cartucheras
+
+ - Neutro
+    - singular:
+      - Ej.lo nuevo
+
+### Determinante artículo indefinido
+
