@@ -10,7 +10,7 @@ Por ejemplo: animales, personas, cosas reales o imaginarias, materias, etc.
 - *Comunes*: nombran cosas, animales, etc.
 
 - *Propios*: son aquellos que identifican a seres y lugares únicos.
-   - Por ejemplo: Buenos Aires, 
+   - Por ejemplo: Buenos Aires, etc
 
 Los sustantivos comunes se dividen en:
 
@@ -19,7 +19,7 @@ Los sustantivos comunes se dividen en:
 
 - *Abstractos*: nombran acciones, cualidades y procesos que no son materiales.
 
-- *Individuales*: nombran un solo ser o entidad: •
+- *Individuales*: nombran un solo ser o entidad: 
    - Por ejemplo: pez, estrella, rosa.
 
  - *Colectivos*: nombran un conjunto de personas, animales o cosas y se encuentran en singular. 
@@ -42,10 +42,9 @@ A algunos terminados en consonante se les agrega –a: español >española
 • Otros sustantivos presentan formas completamente diferentes para designar el
 masculino y el femenino
 
-*Número*: los sustantivos pueden estar en singular o plural
-
-
-
+*Número*: los sustantivos pueden estar en singular o plural.
+El plural, se establece por medio de las terminaciones –s o –es.
+Ej. : computadora > computadoras,mamá > mamás,etc
 
 ### Palabras primitivas y derivadas
 
@@ -80,5 +79,23 @@ cuantificadores.
     - singular:
       - Ej.lo nuevo
 
-### Determinante artículo indefinido
+#### Determinante artículo indefinido
 
+  - Masculino
+     - singular
+       - Ej.un borrador
+     - plural
+       - Ej.unos borradores
+
+  - Femenino
+     - singular
+        - Ej.un cartuchera
+     - plural:
+        - Ej.unas cartucheras
+
+### Adjetivo
+
+Es una palabra que le da al sustantivo una cualidad o propiedad. Puede
+estar delante o detrás del sustantivo y concuerda en género y número.
+
+ Ej.:El largo camino.Todo en masculino y en singular
