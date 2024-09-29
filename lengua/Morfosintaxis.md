@@ -1,6 +1,6 @@
 # Lengua - Morfosintaxis
 
-### Sustantivo
+## Sustantivo
 
 El *sustantivo* es una palabra que le da el nombre a seres materiales o inmateriales de todo tipo.
 Por ejemplo: animales, personas, cosas reales o imaginarias, materias, etc.
@@ -38,56 +38,49 @@ Por ejemplo: animales, personas, cosas reales o imaginarias, materias, etc.
 El plural, se establece por medio de las terminaciones –s o –es.
 Ej. : computadora -> computadoras, mamá -> mamás,etc
 
-### Palabras primitivas y derivadas
+## Palabras primitivas y derivadas
 
 *Primitivas*: son aquellas que no provienen o no se originan de otras
 mientras 
 
 *Derivadas*: son palabras que surgen a partir de las primitivas.
 
-### Determinante
+## Determinante
 
-Los *determinantes* son un grupo de palabras que delimitan al sustantivo
+> Los *determinantes* son un grupo de palabras que delimitan al sustantivo.
 
-Son determinantes: los artículos definidos e indefinidos, los posesivos, demostrativos y
-cuantificadores.
+Son determinantes los artículos definidos e indefinidos, los posesivos, demostrativos y cuantificadores.
 
+**Determinante artículo definido**
 
-#### Determinante artículo definido
+- Masculino: 
+  - Singular: _El_
+    - Ej.: _El_ borrador
+  - Plural: _Los_
+    - _Los_ borradores
+- Femenino:
+  - Singular: _La_
+    - Ej.: _La_ cartuchera
+  - Plural: _Las_
+     - Ej.: _Las_ cartucheras
+ - Neutro:
+    - singular: _Lo_
+      - Ej.: lo nuevo
 
-- Masculino
-  - singular:
-    - Ej.El borrado
-  - plural:
-    - los borradores
+**Determinante artículo indefinido**
+  - Masculino: 
+     - Singular: _Un_
+       - Ej.: _Un_ borrador
+     - Plural: _Unos_
+       - Ej.: _Unos_ borradores
+  - Femenino:
+     - Singular: _Una_
+        - Ej.: _Una_ cartuchera
+     - Plural: _Unas_
+        - Ej.: _Unas_ cartucheras
 
-- Femenino
-  - singular:
-    - Ej. la cartuchera
-  - plural:
-     - Ej. las cartucheras
+## Adjetivo
 
- - Neutro
-    - singular:
-      - Ej.lo nuevo
+> Es una palabra que le da al sustantivo una cualidad o propiedad. Puede estar delante o detrás del sustantivo y concuerda en género y número.
 
-#### Determinante artículo indefinido
-
-  - Masculino
-     - singular
-       - Ej.un borrador
-     - plural
-       - Ej.unos borradores
-
-  - Femenino
-     - singular
-        - Ej.un cartuchera
-     - plural:
-        - Ej.unas cartucheras
-
-### Adjetivo
-
-Es una palabra que le da al sustantivo una cualidad o propiedad. Puede
-estar delante o detrás del sustantivo y concuerda en género y número.
-
- Ej.:El largo camino.Todo en masculino y en singular
+Ej.:El largo camino.Todo en masculino y en singular
