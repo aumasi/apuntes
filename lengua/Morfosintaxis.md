@@ -1,50 +1,42 @@
 # Lengua - Morfosintaxis
 
- ### Sustantivo
+### Sustantivo
 
 El *sustantivo* es una palabra que le da el nombre a seres materiales o inmateriales de todo tipo.
 Por ejemplo: animales, personas, cosas reales o imaginarias, materias, etc.
 
-*Los sustantivos se clasifican en*:
+**Los sustantivos**
+- Se clasifican en:
+  - *Comunes*: nombran cosas, animales, lugares, etc.
+  - *Propios*: son aquellos que identifican a seres y lugares únicos.
+     - Por ejemplo: Buenos Aires, etc
+- Los sustantivos comunes se dividen en:
+  - Según su _naturaleza_:
+    - *Concretos*: nombran seres que poseen existencia por sí mismoss.
+      - Por ejemplo: cielo, zapato, gato.
+    - *Abstractos*: nombran acciones, cualidades y procesos que no son materiales.
+  - Según cómo indican _cantidad_:
+    - *Individuales*: nombran un solo ser o entidad: 
+      - Por ejemplo: pez, estrella, rosa.
+     - *Colectivos*: nombran un conjunto de personas, animales o cosas y se encuentran en singular. 
+       - Por ejemplo: cardumen, constelación, rosedal.
 
-- *Comunes*: nombran cosas, animales, etc.
+> Los sustantivos pueden tener género masculino o femenino.
+> Muchos de ellos, por medio de su terminación, cambian de género. 
 
-- *Propios*: son aquellos que identifican a seres y lugares únicos.
-   - Por ejemplo: Buenos Aires, etc
+**Cambio de masculino a femenino**
+- Reglas generales
+  - Cambio de –o por –a: maestro -> maestra
+  - Cambio de –e por –a: jefe -> jefa
+- Casos especiales:
+  - Existen sustantivos que, para indicar su femenino, tienen terminaciones especiales: -ina, -esa, -triz, -isa.
+  - A algunos terminados en consonante se les agrega –a: español -> española.
+  - Otros sustantivos presentan formas completamente diferentes para designar el masculino y el femenino.
 
-Los sustantivos comunes se dividen en:
+> los sustantivos pueden estar en singular o plural.
 
-- *Concretos*: nombran seres que poseen existencia por sí mismoss.
-  - Por ejemplo: cielo, zapato, gato.
-
-- *Abstractos*: nombran acciones, cualidades y procesos que no son materiales.
-
-- *Individuales*: nombran un solo ser o entidad: 
-   - Por ejemplo: pez, estrella, rosa.
-
- - *Colectivos*: nombran un conjunto de personas, animales o cosas y se encuentran en singular. 
-   - Por ejemplo: cardumen, constelación, rosedal.
-
-*Género*: Los sustantivos pueden tener género masculino o femenino. Muchos
-de ellos, por medio de su terminación, cambian de género. 
-
-*Cambio de masculino a femenino*:
-
-• Cambio de –o por –a: maestro > maestra
-
-• Cambio de –e por –a: jefe > jefa
-
-• Existen sustantivos que, para indicar su femenino, tienen terminaciones espe
-ciales: -ina, -esa, -triz, -isa.
-
-A algunos terminados en consonante se les agrega –a: español >española
-
-• Otros sustantivos presentan formas completamente diferentes para designar el
-masculino y el femenino
-
-*Número*: los sustantivos pueden estar en singular o plural.
 El plural, se establece por medio de las terminaciones –s o –es.
-Ej. : computadora > computadoras,mamá > mamás,etc
+Ej. : computadora -> computadoras, mamá -> mamás,etc
 
 ### Palabras primitivas y derivadas
 
